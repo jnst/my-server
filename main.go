@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"fmt"
-	"my-server/pkg/timeutil"
+	"github.com/jnst/my-server/pkg/timeutil"
 	"time"
 )
 
